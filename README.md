@@ -1,1 +1,2 @@
-# my-whitehat-project
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
